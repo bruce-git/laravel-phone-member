@@ -1,0 +1,17 @@
+{
+    "name": "bruce\/laravel-shop-phone-member",
+    "description": "a laravel shop phone member packagist",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bruce",
+            "email": "bruce@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bruce\\LaravelShopPhoneMember\\": "src"
+        }
+    }
+}
